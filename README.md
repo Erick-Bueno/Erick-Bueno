@@ -1,4 +1,4 @@
-### Ola Meu Nome é Erick Mas Pode Me Chamar De Erikaum👋
+### Ola Meu Nome é Erick Mas Pode Me Chamar De Erick👋
 
 
 - 🌱 Atualmente estudando Node.js, Python, JavaScript, Html e Css
