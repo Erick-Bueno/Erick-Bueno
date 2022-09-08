@@ -1,7 +1,7 @@
 ### Ola Meu Nome é Erick Mas Pode Me Chamar De Erick👋
 
 
-- 🌱 Atualmente estudando Node.js, Python e react
+- 🌱 Atualmente estudando Node.js, Python e C#
 
 
 <div align="center">
