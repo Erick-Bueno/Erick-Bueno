@@ -23,4 +23,5 @@
   <a href = ""><img width = 30px src="https://cdn.worldvectorlogo.com/logos/c--4.svg" target="_blank"></a>
   <a href = ""><img width = 30px src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" target="_blank"></a>
    <a href = ""><img width = 30px src="https://miro.medium.com/max/512/1*fVBL9mtLJmHIH6YpU7WvHQ.png" target="_blank"></a>
+  <a href = ""><img width = 30px src="https://cdn-icons-png.flaticon.com/512/528/528260.png" target="_blank"></a>
   
