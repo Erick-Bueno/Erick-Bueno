@@ -17,6 +17,4 @@
   <h1> Stack </h1>
 <div align="left">
    <a href = ""><img width = 30px src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" target="_blank"></a>
-  <img width = 30px src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png]https://cdn-icons-png.flaticon.com/512/5968/5968267.png" target="_blank">
-  <img width = 30px src="  <img width = 30px src="[https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png](https://cdn-icons-png.flaticon.com/512/5968/5968267.png)" target="_blank">
-" target="_blank">
+   <a href = ""><img width = 30px src="https://cdn-icons-png.flaticon.com/512/174/174854.png" target="_blank"></a>
