@@ -16,6 +16,6 @@
   </div>
   <h1> Stack </h1>
 <div align="left">
-   <a href = ""><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" target="_blank"></a>
+   <a href = ""><img width = 30px src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" target="_blank"></a>
   <a href="https://www.linkedin.com/in/erick-jhonata-35544320a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
