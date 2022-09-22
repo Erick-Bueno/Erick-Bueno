@@ -19,3 +19,8 @@
    <a href = ""><img width = 30px src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" target="_blank"></a>
    <a href = ""><img width = 30px src="https://cdn-icons-png.flaticon.com/512/174/174854.png" target="_blank"></a>
    <a href = ""><img width = 30px src="https://cdn-icons-png.flaticon.com/512/732/732190.png" target="_blank"></a>
+  <a href = ""><img width = 30px src="https://cdn-icons-png.flaticon.com/512/919/919825.png" target="_blank"></a>
+  <a href = ""><img width = 30px src="https://cdn.worldvectorlogo.com/logos/c--4.svg" target="_blank"></a>
+  <a href = ""><img width = 30px src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" target="_blank"></a>
+   <a href = ""><img width = 30px src="https://miro.medium.com/max/512/1*fVBL9mtLJmHIH6YpU7WvHQ.png" target="_blank"></a>
+  
