@@ -1,4 +1,4 @@
-### Ola Meu Nome é Erick e Seja Muito Bem Vindo Ao Meu Perfil :)👋
+### Ola Meu Nome é Erick e Seja Muito Bem-Vindo Ao Meu Perfil :)👋
 
 
 - 🌱 Atualmente estudando Node.js, Python e C#
