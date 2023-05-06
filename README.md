@@ -1,7 +1,7 @@
 ### Ola Meu Nome é Erick e Seja Muito Bem-Vindo Ao Meu Perfil :)👋
 
 
-- 🌱 Atualmente estudando Node.js, c# e vue.js
+- 🌱 Atualmente me aprofundando em C# e na técnica TDD
 
 
 <div align="center">
