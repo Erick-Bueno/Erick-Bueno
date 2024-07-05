@@ -24,7 +24,7 @@
   <a href = ""><img width = 30px src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" target="_blank"></a>
    <a href = ""><img width = 30px src="https://miro.medium.com/max/512/1*fVBL9mtLJmHIH6YpU7WvHQ.png" target="_blank"></a>
   <a href = ""><img width = 30px src="https://cdn-icons-png.flaticon.com/512/528/528260.png" target="_blank"></a>
-  <a href = ""><img width = 30px src="![image](https://github.com/Erick-Bueno/Erick-Bueno/assets/101439440/d49e22c3-5ddb-4c2c-896f-e04b4b5db29b)
+  <a href = ""><img width = 30px src="https://imgs.search.brave.com/zZEYzu-SA8lvPwTdgCU_EpUgMHVlL30K6ahAszqHIxg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/bGlibG9nby5jb20v/aW1nLWxvZ28vYW4y/NzFhNTVmLWFuZ3Vs/YXItbG9nby1hbmd1/bGFyLWxvZ28tdHJh/bnNwYXJlbnQtcG5n/LXN0aWNrcG5nLnBu/Zw
 " target="_blank"></a>
   <a href = ""><img width = 30px src="https://miro.medium.com/max/600/1*p6exlg2Jrl3pimjPy7R-sA.png" target="_blank"></a>
   <a href = ""><img width = 30px src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" target="_blank"></a>
