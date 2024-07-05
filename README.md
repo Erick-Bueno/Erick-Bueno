@@ -24,7 +24,7 @@
   <a href = ""><img width = 30px src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" target="_blank"></a>
    <a href = ""><img width = 30px src="https://miro.medium.com/max/512/1*fVBL9mtLJmHIH6YpU7WvHQ.png" target="_blank"></a>
   <a href = ""><img width = 30px src="https://cdn-icons-png.flaticon.com/512/528/528260.png" target="_blank"></a>
-  <a href = ""><img width = 30px src="https://www.liblogo.com/img-logo/an271a55f-angular-logo-angular-logo-transparent-png-stickpng.png" target="_blank"></a>
+  <a href = ""><img width = 30px src="https://beetlerim.com/assets/img/angular.png" target="_blank"></a>
   <a href = ""><img width = 30px src="https://miro.medium.com/max/600/1*p6exlg2Jrl3pimjPy7R-sA.png" target="_blank"></a>
   <a href = ""><img width = 30px src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" target="_blank"></a>
    <a href = ""><img width = 30px src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png" target="_blank"></a>
