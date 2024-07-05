@@ -1,7 +1,7 @@
 ### Ola Meu Nome é Erick e Seja Muito Bem-Vindo Ao Meu Perfil :)👋
 
 
-- 🌱 Atualmente me aprofundando em C# e na técnica TDD
+- 🌱 Atualmente me aprofundando em Angular.
 
 
 <div align="center">
