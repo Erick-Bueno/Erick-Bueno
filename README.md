@@ -67,6 +67,12 @@ Skills
       </a>
       <br>Git
     </td>
+        <td align="center" width="96">
+      <a href="#git" >
+        <img src="https://imgs.search.brave.com/ethlyM_NVLfhjhx_IInfXICxyLLpyUa8w8m43sdmt_A/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtMDAuaWNvbmR1/Y2suY29tL2Fzc2V0/cy4wMC9hbmd1bGFy/LWljb24tMTkzMXgy/MDQ4LWJlZjFmM2xt/LnBuZw" width="48" height="48" alt="Git" />
+      </a>
+      <br>Angular
+    </td>
     
 </tr>
 
