@@ -28,7 +28,8 @@
     </td>
   </tr>
 </table>
-
+---
+Skills
 --- 
 
 ### 🏆 GitHub Profile Trophy
