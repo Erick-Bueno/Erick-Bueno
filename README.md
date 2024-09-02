@@ -88,6 +88,6 @@ Skills
 
 [![Linkedin](https://img.shields.io/badge/-Erick-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erick-jhonata-35544320a/)](https://www.linkedin.com/in/erick-jhonata-35544320a/)
 [![Gmail Badge](https://img.shields.io/badge/-erickjb93@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:erickjb93@gmail.com)](mailto:erickjb93@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/Erick-Bueno)
+[![GitHub](https://img.shields.io/github/followers/ErickBueno?label=follow&style=social)](https://github.com/Erick-Bueno)
 
   
